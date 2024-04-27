@@ -1,0 +1,4 @@
+train: C:\Users\sudip\OneDrive\Documents\computer-vision\Nature\train
+val: C:\Users\sudip\OneDrive\Documents\computer-vision\Nature\test
+nc: 1
+names: ["butterfly"]

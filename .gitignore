@@ -1,1 +1,11 @@
 env
+
+*.jpg
+
+dataset
+
+*.mp4
+
+runs
+
+*.pt
